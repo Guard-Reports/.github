@@ -39,7 +39,7 @@ The platform consists of:
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v16+)
+- Node.js (v20+)
 - PostgreSQL (v13+)
 - AWS CLI configured for deployment
 
@@ -81,7 +81,7 @@ The platform consists of:
 
 ## Contributing
 
-We welcome contributions! Please follow these steps to contribute:
+Please follow these steps to contribute:
 
 1. Fork the repository.
 2. Create a feature branch: `git checkout -b feature-name`
