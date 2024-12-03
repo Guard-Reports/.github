@@ -1,6 +1,4 @@
 # .github
-Here's the final version of the **Guard Reports** README in markdown format:
-
 ---
 
 # Guard Reports
